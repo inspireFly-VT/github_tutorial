@@ -1,3 +1,2 @@
 print ('Hi Inspirefly!')
-
-#commit 2
+print ('This is a git tutorial')
